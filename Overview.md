@@ -1,6 +1,7 @@
 Slabserver: A History
 
 In the beginning, there was Etho.
+
 2015
 On the 3rd of April, 2015, it was announced that Etho was parting ways with Mindcrack, owing to their shift in business strategy. In line with their existing rules, Etho’s typical content was no longer allowed on /r/mindcrack. This led to a significant influx of subscribers to /r/ethoslab as Etho’s reddit fanbase consolidated there.
 Season 1
